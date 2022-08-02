@@ -1,7 +1,7 @@
 <?php
-$host = "containers-us-west-85.railway.app";
+$host = "containers-us-west-83.railway.app";
 $user = "root";
-$password = "xoXliQ9MGjfWulcfj3eH";
+$password = "TcA8ZQF6NUOSMmGYFNeX";
 $db = "railway";
 
 
